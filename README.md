@@ -9,6 +9,6 @@ Kasetsart U. >> Ku 84 💚🤍
 
 ## Stat
 
-![Tong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kukukaya&show_icons=true&theme=dracula)
+![Tong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kukukaya&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kukukaya&layout=donut-vertical&theme=dracula)](https://github.com/kukukaya/github-readme-stats)
 
